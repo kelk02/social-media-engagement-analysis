@@ -1,4 +1,5 @@
-Instagram Influencer Engagement Analysis
+# Instagram Influencer Engagement Analysis
+
 An exploratory data analysis (EDA) of the top 1000 Instagram influencers, investigating what drives engagement across different countries and content categories.
 
 # Problem Statement
