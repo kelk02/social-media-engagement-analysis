@@ -11,15 +11,12 @@ What factors drive engagement (likes, shares, comments) on Instagram? Specifical
 
 # Project Structure
 social-media-engagement-analysis/
-│
-├── data/
+- data/
 │   └── instagram.csv
-│
-├── notebooks/
+-notebooks/
 │   └── 01_eda.ipynb
-│
-├── README.md
-└── .gitignore
+- README.md
+- .gitignore
 
 # Dataset
 
